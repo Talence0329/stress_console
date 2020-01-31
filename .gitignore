@@ -1,0 +1,7 @@
+node_modules
+warehouse/jmx/*
+warehouse/report/*
+jmeter
+jmeter.log
+Error.txt
+/work/*/
